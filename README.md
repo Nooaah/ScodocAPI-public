@@ -10,7 +10,7 @@ ScodocAPI is an API that allows you to retrieve your school grades (IUT Informat
     <head>
         <title>Call Scodoc Nooaah's API</title>
         <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js'></script>
-        <script src="page.js"></script>
+        <script src="index.js"></script>
     </head>
     <body></body>
 </html>
