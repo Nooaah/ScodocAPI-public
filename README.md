@@ -21,7 +21,7 @@ ScodocAPI is an API that allows you to retrieve your school grades (IUT Informat
 $(document).ready(function () {
     $.ajax({
         type: "POST",
-        url: "http://ec2-3-17-12-13.us-east-2.compute.amazonaws.com/scodoc/getData",
+        url: "https://scodoc.herokuapp.com/getData/",
         data: {
             ine: 'YourINEHere'
         },
